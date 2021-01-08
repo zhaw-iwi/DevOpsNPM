@@ -1,7 +1,7 @@
 {
-  "name": "devopsnodetest",
+  "name": "devopsnpmtest",
   "version": "1.0.0",
-  "description": "ZHAW-Test",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "animejs": "3.2.0",
-    "chart.js": "2.9.3",
-    "phaser": "3.23.0"
+    "chart.js": "^2.9.3"
   }
 }
